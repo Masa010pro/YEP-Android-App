@@ -1,0 +1,6 @@
+{
+  "name": "YEP Platform",
+  "description": "Youth Empowerment Project (YEP Platform) native Android app for virtual exchanges, 1–5 rubric mentoring, partner opportunities, impact analytics, and offline-resilient AI advising in 6 languages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
